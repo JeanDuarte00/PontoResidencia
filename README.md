@@ -1,5 +1,8 @@
 # Ponto Residencia
 
+Sistema de ponto para os Residentes em Engenharia de Software
+criado pelos mesmos.
+
 ### Tecnologia usadas
 * [Angular](https://angular.io/)
 * [Spring](https://spring.io/)
